@@ -1,0 +1,17 @@
+/Users/adityapandey/projects/intern/inter_test/moviesnet/bin/Debug/netcoreapp2.2/moviesnet.deps.json
+/Users/adityapandey/projects/intern/inter_test/moviesnet/bin/Debug/netcoreapp2.2/moviesnet.runtimeconfig.json
+/Users/adityapandey/projects/intern/inter_test/moviesnet/bin/Debug/netcoreapp2.2/moviesnet.runtimeconfig.dev.json
+/Users/adityapandey/projects/intern/inter_test/moviesnet/bin/Debug/netcoreapp2.2/moviesnet.dll
+/Users/adityapandey/projects/intern/inter_test/moviesnet/bin/Debug/netcoreapp2.2/moviesnet.pdb
+/Users/adityapandey/projects/intern/inter_test/moviesnet/obj/Debug/netcoreapp2.2/moviesnet.csprojAssemblyReference.cache
+/Users/adityapandey/projects/intern/inter_test/moviesnet/obj/Debug/netcoreapp2.2/moviesnet.csproj.CoreCompileInputs.cache
+/Users/adityapandey/projects/intern/inter_test/moviesnet/obj/Debug/netcoreapp2.2/moviesnet.RazorAssemblyInfo.cache
+/Users/adityapandey/projects/intern/inter_test/moviesnet/obj/Debug/netcoreapp2.2/moviesnet.RazorAssemblyInfo.cs
+/Users/adityapandey/projects/intern/inter_test/moviesnet/obj/Debug/netcoreapp2.2/moviesnet.AssemblyInfoInputs.cache
+/Users/adityapandey/projects/intern/inter_test/moviesnet/obj/Debug/netcoreapp2.2/moviesnet.AssemblyInfo.cs
+/Users/adityapandey/projects/intern/inter_test/moviesnet/obj/Debug/netcoreapp2.2/moviesnet.RazorTargetAssemblyInfo.cache
+/Users/adityapandey/projects/intern/inter_test/moviesnet/obj/Debug/netcoreapp2.2/moviesnet.dll
+/Users/adityapandey/projects/intern/inter_test/moviesnet/obj/Debug/netcoreapp2.2/moviesnet.pdb
+/Users/adityapandey/projects/intern/inter_test/moviesnet/bin/Debug/netcoreapp2.2/moviesnet.Views.dll
+/Users/adityapandey/projects/intern/inter_test/moviesnet/bin/Debug/netcoreapp2.2/moviesnet.Views.pdb
+/Users/adityapandey/projects/intern/inter_test/moviesnet/obj/Debug/netcoreapp2.2/moviesnet.csproj.CopyComplete

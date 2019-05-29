@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.css"],"names":[],"mappings":"AAAA,KACI,eACA,YAAc","file":"static/css/main.b9a51dc5.css","sourcesContent":[".poi {\n    cursor: pointer;\n    margin: .16em;\n}\n\n\n// WEBPACK FOOTER //\n// ./src/app.css"],"sourceRoot":""}
